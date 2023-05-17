@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main(void)
 {
-    print(hello world!);
+    print(My hobby is ....s);
     return 0;
 }
